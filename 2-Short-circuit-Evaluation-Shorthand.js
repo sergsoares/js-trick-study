@@ -5,7 +5,6 @@
 console.log("2. Short-circuit Evaluation Shorthand")
 
 var answer;
-
 if(answer !== null || answer !== undefined || answer !== ''){
     var message = answer;
 }
