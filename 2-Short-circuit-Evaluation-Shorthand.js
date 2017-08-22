@@ -14,7 +14,6 @@ console.log(message)
 /****************************************************************/
 console.log("2. Short-circuit Evaluation Shorthand - ES6")
 
-const falsy = [false, null, undefined, 0, NaN, '', ""]
 var answer2;
 const message2 = answer2 || 'nothing'
 
