@@ -1,5 +1,5 @@
 /**
- * Explanation : You can validate if a variable is Trusty or Falsy in JS
+ * Explanation : You can validate if a variable is Trusty or Falsy in JS without made a lot of validations
  */
 
 console.log("4. If Presence Shorthand");
