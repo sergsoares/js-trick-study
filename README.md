@@ -8,9 +8,9 @@ https://www.sitepoint.com/shorthand-javascript-techniques/
 - [x] 3. Declaring Variables Shorthand
 - [x] 4. If Presence Shorthand
 - [x] 5. JavaScript for Loop Shorthand
-- [ ] 6. Short-circuit Evaluation
-- [ ] 7. Decimal base exponents
-- [ ] 8. Object Property Shorthand
+- [x] 6. Short-circuit Evaluation
+- [x] 7. Decimal base exponents
+- [x] 8. Object Property Shorthand
 - [ ] 9. Arrow Functions Shorthand
 - [ ] 10. Implicit Return Shorthand
 - [ ] 11. Default Parameter Values
